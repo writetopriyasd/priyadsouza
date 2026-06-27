@@ -1,6 +1,3 @@
-markdown---
-layout: default
----
 
 # priyadsouza
 What is Lorem Ipsum?
